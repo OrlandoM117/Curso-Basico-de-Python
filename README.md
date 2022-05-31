@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en python (Lo Básico).
 
-![]([imagenes\pythonlogo.png](https://github.com/OrlandoM117/Curso-Basico-de-Python/blob/master/imagenes/pythonlogo.png?raw=true))
+![]((https://github.com/OrlandoM117/Curso-Basico-de-Python/blob/master/imagenes/pythonlogo.png?raw=true))
 
 **Requisitos**
 - Python 3.6 o superior
