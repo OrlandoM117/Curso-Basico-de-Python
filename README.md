@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en python (Lo Básico).
 
-![](imagenes\pythonlogo.png)
+![](imagenes\pythonlogo2.png)
 
 **Requisitos**
 - Python 3.6 o superior
